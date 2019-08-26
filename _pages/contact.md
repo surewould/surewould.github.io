@@ -1,32 +1,28 @@
 ---
-title: Start a Conversation
-subtitle: Stephanie Sherwood
+title: Leave me a Message
+subtitle: Let's have a conversation.
 description: Contact Stephanie Sherwood
 featured_image: /images/trees/contact.jpg
 ---
 
-## Form
+## By form...
 
 {% include contact-form.html %}
 
-## Social
+## social...
+
+Please make your intentions clear in your initial message so it is less likely to get lost in the noise.
 
 <p><br></p>
 
-Please make your intentions clear in your initial message. I get a lot of noise on these channels.
-  
 {% include socials.html %}
 
-## Email
+## or email.
 
-[stephanie@radiantgrove.com](mailto:stephanie@radiantgrove.com)
-
-<details>
-  <summary>Click to expand for GPG key.</summary>
+[Stephanie Sherwood](mailto:stephanie@radiantgrove.com)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mQINBFuZ9kABEADBLctmjU73YbsemNiAEGk9UqwfEdCi108BUx1dxgW2G7bc41ww
 +fqxYGK4FfjlNt8CzE/C2WEBaMr4HKICs8dXyVzC/vbipazwH+Kaf5iY6b+mCxC3
 lesaFyVSTD/8NZOGnixNjDB1TXvccJ1g1X+rZEdiHQZSW6329OsgXG1KBsDdQh1a
@@ -88,7 +84,7 @@ yAkqj6zLOWaMhrqLRwWbeCLAJr6lGNSkc9wDXV8PDqGuXCYKV8uXmfkebEmbnLkm
 EJTarCvmfeh68Cau5M3cGQARAQABiQRsBBgBCAAgFiEEfru7kEJR81j5FitT1Ofc
 ZTO65qIFAluZ9rkCGwICQAkQ1OfcZTO65qLBdCAEGQEIAB0WIQQyqt1wVM3Wgd1U
 aWD1QXr6Bvky1gUCW5n2uQAKCRD1QXr6Bvky1snfEADC1lRKTUiYp1fmk0viH6cl
-VZjX8ThZVeOh+dSJjiFoB/2jaqL1K9cj+8S.C. Sherwood's gap in the electric forest.EHztaFL5mIq+Tnuac3lwXuz55MXQKj
+VZjX8ThZVeOh+dSJjiFoB/2jaqL1K9cj+8EHztaFL5mIq+Tnuac3lwXuz55MXQKj
 4b/2YHR1Bly7p+PPThNWVQmQog6hKtP/6dJ+TClU1WpHE/FMMPnGw9o3MB7bAlfx
 wqVOrkBZ4SPzCshQQlP0KLFzvc68FDI5iK1qrHDZpXBLvKiAEsxqEgCHToRWYrWY
 SvrsMAUaCP1H3Kh8vKz3jV+P/TI5dB0ZG0ZhFbI3yZjrV2jj+io62fTbBmirZL5g
@@ -113,5 +109,3 @@ oiYlrQ==
 =NDDo
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-</details>

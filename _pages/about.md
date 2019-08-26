@@ -1,7 +1,7 @@
 ---
 title: About
-subtitle: Stephanie Sherwood
-description: About Stephanie Sherwood
+subtitle: Stephanie C. Sherwood
+description: About Stephanie C. Sherwood
 featured_image: /images/trees/about.jpg
 ---
 
