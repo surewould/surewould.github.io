@@ -11,7 +11,8 @@ featured_image: /images/demo/contact.jpg
 
 ## Social
 
-</br>
+You probably want to contact me by FB messenger if you go thos route. Please state your reason for reaching out clearly in your first message.
+
 {% include socials.html %}
 
 ## Email
