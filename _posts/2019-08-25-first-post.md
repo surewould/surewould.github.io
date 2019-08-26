@@ -1,6 +1,6 @@
 ---
-title: 'Demo Post'
-date: 2019-08-25 18:20:00
+title: 'First Post!'
+date: 2019-08-25 18:24:00
 description: First post!
 featured_image: '/images/demo/demo-square.jpg'
 ---

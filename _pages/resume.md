@@ -1,11 +1,10 @@
 ---
 title: Resume
-subtitle: The Return of the Resume
-description: This is a description of my resume page.
+subtitle: Stephanie Sherwood
+description: Stephanie Sherwood's Resume
 featured_image: /images/demo/about.jpg
 ---
 
-## Heading 
+## Resume
 
 Lorem Ipsum...
-
