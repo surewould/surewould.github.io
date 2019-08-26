@@ -11,16 +11,14 @@ featured_image: /images/demo/contact.jpg
 
 ## Social
 
+\
 {% include socials.html %}
 
 ## Email
 
 [stephanie@radiantgrove.com](mailto:stephanie@radiantgrove.com)
 
-### GPG
-
 If you must...
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
