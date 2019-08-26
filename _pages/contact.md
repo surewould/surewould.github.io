@@ -10,7 +10,9 @@ featured_image: /images/trees/contact.jpg
 {% include contact-form.html %}
 
 ## Social
-</p>
+
+<p><br></p>
+
 Please make your intentions clear in your initial message. I get a lot of noise on these channels.
   
 {% include socials.html %}
@@ -19,11 +21,10 @@ Please make your intentions clear in your initial message. I get a lot of noise 
 
 [stephanie@radiantgrove.com](mailto:stephanie@radiantgrove.com)
 
-### GPG Key
 <details>
-  <summary>Expand me if you must.</summary>
+  <summary>Click to expand for GPG key.</summary>
 
-``` bash
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFuZ9kABEADBLctmjU73YbsemNiAEGk9UqwfEdCi108BUx1dxgW2G7bc41ww
@@ -87,7 +88,7 @@ yAkqj6zLOWaMhrqLRwWbeCLAJr6lGNSkc9wDXV8PDqGuXCYKV8uXmfkebEmbnLkm
 EJTarCvmfeh68Cau5M3cGQARAQABiQRsBBgBCAAgFiEEfru7kEJR81j5FitT1Ofc
 ZTO65qIFAluZ9rkCGwICQAkQ1OfcZTO65qLBdCAEGQEIAB0WIQQyqt1wVM3Wgd1U
 aWD1QXr6Bvky1gUCW5n2uQAKCRD1QXr6Bvky1snfEADC1lRKTUiYp1fmk0viH6cl
-VZjX8ThZVeOh+dSJjiFoB/2jaqL1K9cj+8EHztaFL5mIq+Tnuac3lwXuz55MXQKj
+VZjX8ThZVeOh+dSJjiFoB/2jaqL1K9cj+8S.C. Sherwood's gap in the electric forest.EHztaFL5mIq+Tnuac3lwXuz55MXQKj
 4b/2YHR1Bly7p+PPThNWVQmQog6hKtP/6dJ+TClU1WpHE/FMMPnGw9o3MB7bAlfx
 wqVOrkBZ4SPzCshQQlP0KLFzvc68FDI5iK1qrHDZpXBLvKiAEsxqEgCHToRWYrWY
 SvrsMAUaCP1H3Kh8vKz3jV+P/TI5dB0ZG0ZhFbI3yZjrV2jj+io62fTbBmirZL5g

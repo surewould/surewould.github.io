@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: radiantgrove.com
+  site_title: Radiant Grove
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -20,7 +20,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: S. Sherwood's gap in the electric forest.
+  footer_tagline: S.C. Sherwood's gap in the electric forest.
 
 hero_settings:
   overlay_opacity: 0.8
