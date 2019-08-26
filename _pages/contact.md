@@ -11,7 +11,7 @@ featured_image: /images/demo/contact.jpg
 
 ## Social
 
-\
+</br>
 {% include socials.html %}
 
 ## Email
