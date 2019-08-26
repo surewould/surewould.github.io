@@ -2,7 +2,7 @@
 title: Contact
 subtitle: Stephanie Sherwood
 description: Contact Stephanie Sherwood
-featured_image: /images/demo/contact.jpg
+featured_image: /images/trees/contact.jpg
 ---
 
 ## Form

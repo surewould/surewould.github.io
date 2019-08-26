@@ -2,7 +2,7 @@
 title: About
 subtitle: Stephanie Sherwood
 description: About Stephanie Sherwood
-featured_image: /images/demo/about.jpg
+featured_image: /images/trees/about.jpg
 ---
 
 ## Bio
