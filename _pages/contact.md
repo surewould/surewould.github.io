@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Start a Conversation
 subtitle: Stephanie Sherwood
 description: Contact Stephanie Sherwood
 featured_image: /images/trees/contact.jpg
@@ -10,8 +10,8 @@ featured_image: /images/trees/contact.jpg
 {% include contact-form.html %}
 
 ## Social
-
-You probably want to contact me by FB messenger if you go this route. Please state your reason for reaching out clearly in your first message.  
+</p>
+Please make your intentions clear in your initial message. I get a lot of noise on these channels.
   
 {% include socials.html %}
 
@@ -19,8 +19,11 @@ You probably want to contact me by FB messenger if you go this route. Please sta
 
 [stephanie@radiantgrove.com](mailto:stephanie@radiantgrove.com)
 
-If you must...
-```
+### GPG Key
+<details>
+  <summary>Expand me if you must.</summary>
+
+``` bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFuZ9kABEADBLctmjU73YbsemNiAEGk9UqwfEdCi108BUx1dxgW2G7bc41ww
@@ -109,3 +112,5 @@ oiYlrQ==
 =NDDo
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>
