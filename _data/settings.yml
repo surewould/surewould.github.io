@@ -61,6 +61,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/stephsherwood/'
+  keybase_url: 'https://keybase.io/stephanies'
 
 color_settings:
   background_color: '#ffffff'
