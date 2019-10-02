@@ -7,7 +7,9 @@ featured_image: /images/trees/about.jpg
 
 ## Download Resume
 
-[Download Resume as PDF]({{ site.url }}/assets/Stephanie_C_Sherwood_Resume.pdf). Other formats available upon request.
+**[Download Resume as PDF]({{ site.url }}/assets/Stephanie_C_Sherwood_Resume.pdf).**
+
+Other formats available upon request.
 
 ### Summary
 
