@@ -7,8 +7,7 @@ featured_image: /images/trees/about.jpg
 
 ## Download Resume
 
-[Download Resume as PDF]({{ site.url }}/assets/Stephanie_C_Sherwood_Resume.pdf).\
-Other formats available upon request.
+[Download Resume as PDF]({{ site.url }}/assets/Stephanie_C_Sherwood_Resume.pdf). Other formats available upon request.
 
 ### Summary
 
@@ -59,8 +58,7 @@ Created and updated security policies. Implemented vulnerability management and 
 
 ### Education
 
-**University of Oklahoma**
-
+**University of Oklahoma**\
 Computer  Engineering
 
 ### Skills
@@ -78,5 +76,5 @@ Computer  Engineering
 
 ### Certifications
 
-**CISSP - (ISC)²**
-**Security+ - CompTIA**
+- CISSP - (ISC)²
+- Security+ - CompTIA
