@@ -7,7 +7,7 @@ featured_image: /images/trees/about.jpg
 
 ## Download Resume
 
-[Download PDF](../files/Stephanie_C_Sherwood_Resume.pdf). Other formats available upon request.
+[Download PDF](/files/Stephanie_C_Sherwood_Resume.pdf). Other formats available upon request.
 
 ### Summary
 
@@ -15,7 +15,7 @@ Experienced Information Security Specialist with seventeen years of experience i
 
 ### Experience
 
-![](.//../images/resume/image108.png){width="0.3699989063867017in" height="0.3699989063867017in"} | **Information Security Compliance Specialist** Aug 2016 - Present INTEGRIS Health |
+**Information Security Compliance Specialist** Aug 2016 - Present INTEGRIS Health
 
 Don\'t let the title fool you. Delivered collaborative purple team
 services informed form a red team background.\
@@ -36,16 +36,10 @@ other natural intersections of my offensive\
 security background with a traditional but mature corporate security
 program.
 
-![](.//../images/resume/image109.png){width="0.3699989063867017in"
-height="0.27749890638670166in"}
-
 **Security Consultant** Dec 2015 - Present Independent Contracting
 
 Executed and delivered varied information security services, largely
 penetration testing, for several clients.
-
-![](.//../images/resume/image110.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}
 
 **Senior Security Consultant** May 2015 - Nov 2015 True Digital Security 7 months
 
@@ -56,9 +50,6 @@ security program development. Responsible\
 for managing existing clients and building new clientele in the
 Oklahoma City market.
 
-![](.//../images/resume/image111.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}
-
 **eSecurity Staff Engineer (Contract)** Nov 2014 - Apr 2015 Seagate Technology
 
 Developed new frameworks, processes, and communications for internal
@@ -68,9 +59,6 @@ programs. Championed risk management practices/ISMS utilizing ISO
 GRC platform. Performed security reviews of new or updated critical
 local and cloud-based systems. Scoped and\
 executed penetration and red teaming exercises.
-
-![](.//../images/resume/image112.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}
 
 **Senior Security Consultant** Jun 2014 - Nov 2014 NETSource, Inc.
 
@@ -84,9 +72,6 @@ security topics. Executed and delivered
 penetration testing and application assessment services. Developed and
 delivered custom security policies for\
 multiple clients.
-
-![](.//../images/resume/image113.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}
 
 **Security Consultant** Apr 2011 - Feb 2014 FishNet Security 2 years 11 months
 
@@ -107,9 +92,6 @@ assessments, and full red team engagements.\
 Created and peer reviewed reports that balanced executive level charts
 and verbiage with technical detail using\
 both CVSSv2 and subjective risk rating approaches.
-
-![](.//../images/resume/image114.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}
 
 **Information Security Engineer** Jun 2007 - Mar 2011 INTEGRIS Health 3 years 10 months
 
@@ -139,9 +121,6 @@ IP360, SourceFire, ArcSight, Imperva,\
 LogLogic, Proofpoint, ActiveScout Edge, Packeteer, and other
 solutions.
 
-![](.//../images/resume/image109.png){width="0.3699989063867017in"
-height="0.27749890638670166in"}
-
 **Network Technician** Aug 2005 - Jun 2007 First American Professional Land Services 1 year 11 months
 
 Created and updated security policies. Implemented vulnerability
@@ -153,13 +132,24 @@ users, load balances, and everything else.
 
 ### Education
 
-**University of Oklahoma** Computer  Engineering
+**University of Oklahoma**
+
+Computer  Engineering
 
 ### Skills
 
-Penetration Testing • Vulnerability Assessment • Application Security • Purple Teaming • Software Development • Social Engineering • Consulting • Cloud Security • DevSecOps • ATT&CK
+- Penetration Testing
+- Vulnerability Assessment
+- Application Security
+- Purple Teaming
+- Software Development
+- Social Engineering
+- Consulting
+- Cloud Security
+- DevSecOps
+- ATT&CK
 
 ### Certifications
 
-**CISSP • (ISC)²**\
-**Security+ • CompTIA**
+**CISSP - (ISC)²**\
+**Security+ - CompTIA**
