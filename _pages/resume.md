@@ -11,17 +11,11 @@ featured_image: /images/trees/about.jpg
 
 ### Summary
 
-Experienced Information Security Specialist with seventeen years of
-experience in various, technical, consulting,\
-and educational roles, with a heavy focus on offensive security.
-Currently focused on shifting security to the left with collaborative,
-integrated, and innovative approaches to purple and red teaming.
+Experienced Information Security Specialist with seventeen years of experience in various, technical, consulting, and educational roles, with a heavy focus on offensive security. Currently focused on shifting security to the left with collaborative,  integrated, and innovative approaches to purple and red teaming.
 
 ### Experience
 
-![](.//../images/resume/image108.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**Information Security Compliance
-Specialist** Aug 2016- Present INTEGRIS Health
+![](.//../images/resume/image108.png){width="0.3699989063867017in" height="0.3699989063867017in"} | **Information Security Compliance Specialist** Aug 2016 - Present INTEGRIS Health |
 
 Don\'t let the title fool you. Delivered collaborative purple team
 services informed form a red team background.\
@@ -43,15 +37,17 @@ security background with a traditional but mature corporate security
 program.
 
 ![](.//../images/resume/image109.png){width="0.3699989063867017in"
-height="0.27749890638670166in"}**Security Consultant** Dec 2015-
-Present Independent Contracting
+height="0.27749890638670166in"}
+
+**Security Consultant** Dec 2015 - Present Independent Contracting
 
 Executed and delivered varied information security services, largely
 penetration testing, for several clients.
 
 ![](.//../images/resume/image110.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**Senior Security Consultant** May 2015
-- Nov 2015 True Digital Security 7 months
+height="0.3699989063867017in"}
+
+**Senior Security Consultant** May 2015 - Nov 2015 True Digital Security 7 months
 
 Executed and delivered a variety of services including application
 code review, application penetration tests,\
@@ -61,8 +57,9 @@ for managing existing clients and building new clientele in the
 Oklahoma City market.
 
 ![](.//../images/resume/image111.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**eSecurity Staff Engineer (Contract)**
-Nov 2014 - Apr 2015 Seagate Technology 6 months
+height="0.3699989063867017in"}
+
+**eSecurity Staff Engineer (Contract)** Nov 2014 - Apr 2015 Seagate Technology
 
 Developed new frameworks, processes, and communications for internal
 red team and threat intelligence\
@@ -73,8 +70,9 @@ local and cloud-based systems. Scoped and\
 executed penetration and red teaming exercises.
 
 ![](.//../images/resume/image112.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**Senior Security Consultant** Jun 2014
-- Nov 2014 NETSource, Inc. 6 months
+height="0.3699989063867017in"}
+
+**Senior Security Consultant** Jun 2014 - Nov 2014 NETSource, Inc.
 
 Provided pre-sales and post-sales support to existing clients for a
 wide variety of security appliances and software in a Sales
@@ -88,8 +86,9 @@ delivered custom security policies for\
 multiple clients.
 
 ![](.//../images/resume/image113.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**Security Consultant** Apr 2011 - Feb
-2014 FishNet Security 2 years 11 months
+height="0.3699989063867017in"}
+
+**Security Consultant** Apr 2011 - Feb 2014 FishNet Security 2 years 11 months
 
 Increased test scheduling flexibility, reduced travel, reduced
 customer cost, and increased billable hours for\
@@ -110,8 +109,9 @@ and verbiage with technical detail using\
 both CVSSv2 and subjective risk rating approaches.
 
 ![](.//../images/resume/image114.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**Information Security Engineer** Jun
-2007 - Mar 2011 INTEGRIS Health 3 years 10 months
+height="0.3699989063867017in"}
+
+**Information Security Engineer** Jun 2007 - Mar 2011 INTEGRIS Health 3 years 10 months
 
 Delivered security assessments for web apps, binary apps (limited),
 host configuration assessments, and
@@ -140,8 +140,9 @@ LogLogic, Proofpoint, ActiveScout Edge, Packeteer, and other
 solutions.
 
 ![](.//../images/resume/image109.png){width="0.3699989063867017in"
-height="0.27749890638670166in"}**Network Technician** Aug 2005 - Jun
-2007 First American Professional Land Services 1 year 11 months
+height="0.27749890638670166in"}
+
+**Network Technician** Aug 2005 - Jun 2007 First American Professional Land Services 1 year 11 months
 
 Created and updated security policies. Implemented vulnerability
 management and scanning program.\
@@ -152,17 +153,11 @@ users, load balances, and everything else.
 
 ### Education
 
-![](.//../images/resume/image116.png){width="0.3699989063867017in"
-height="0.3699989063867017in"}**University of Oklahoma** Computer
-Engineering
+**University of Oklahoma** Computer  Engineering
 
 ### Skills
 
-![](.//../images/resume/image117.png){width="0.34490266841644796in"
-height="0.3699989063867017in"}Penetration Testing • Vulnerability
-Assessment • Application Security • Purple Teaming • Software
-Development • Social Engineering • Consulting • Cloud Security •
-DevSecOps • ATT&CK
+Penetration Testing • Vulnerability Assessment • Application Security • Purple Teaming • Software Development • Social Engineering • Consulting • Cloud Security • DevSecOps • ATT&CK
 
 ### Certifications
 
