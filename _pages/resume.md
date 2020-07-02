@@ -9,10 +9,10 @@ featured_image: /images/trees/about.jpg
 
 [Download Resume as PDF]({{ site.url }}/assets/Stephanie_C_Sherwood_Resume.pdf).
 
-## But I can't stand PDFs!
+## I can't stand PDFs!
 
 [My LinkedIn Profile](https://www.linkedin.com/in/stephsherwood/) tracks my PDF resume. Please head there.
 
-## But LinkedIn is even worse!
+## LinkedIn is even worse!
 
 Oh, I know. ¯\\_(ツ)_/¯
